@@ -1,0 +1,19 @@
+{
+  "name": "node-test-drills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sort.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.0"
+  }
+}
