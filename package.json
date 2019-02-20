@@ -14,6 +14,11 @@
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.0.0"
+    "mocha": "^6.0.0",
+    "nodemon": "^1.18.10",
+    "supertest": "^3.4.2"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }
